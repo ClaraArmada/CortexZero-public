@@ -1,6 +1,6 @@
 Apache License 2.0
 
-CortexZero v0.1-public — The First Living Digital Neuron
+CortexZero v0.1-public — single multi-compartment dendritic neuron
 Copyright (c) 2025 Clara Armada
 
 Licensed under the Apache License, Version 2.0 (the "License");
